@@ -1,0 +1,9 @@
+*.wav
+*.h5
+
+__pycache__
+.ipynb_checkpoints
+
+numpy
+corpus
+corpus_resized
